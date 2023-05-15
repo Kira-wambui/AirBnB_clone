@@ -1,0 +1,1 @@
+This is the first step towards building a full web application: the AirBnB clone. This project builds an interpreter to manage the AirBnB objects and initiates the front-end development by building the static web page with HTML and CSS
